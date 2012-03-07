@@ -1,0 +1,3 @@
+This is the arduino code for the Twistymote project.
+
+ALL THE CODE THAT IS IN THE LIBRARY IS SOMEONE ELSES HARD WORK. PLEASE GIVE THEM CREDIT IN YOUR CODE
